@@ -2,7 +2,7 @@
 Meu Google Colab
 
 # 👨‍💻 Todos meus projeto no Google Colab
-Este é um repositório com os meus projeto do Google Colab
+Este é um repositório com os meus projetos do Google Colab
 
 1- [Lista_Desafio_1.ipynb](/Lista_Desafio_1.ipynb)
 
