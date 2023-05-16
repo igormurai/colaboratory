@@ -11,3 +11,5 @@ Este é um repositório com os meus projetos do Google Colab
 **3- [Lista_Desafio_3.ipynb](/Lista_Desafio_3.ipynb)**
 
 **4- [Estrutura_Decisão.ipynb](/Estrutura_Decisão.ipynb)**
+
+**5- [Estrutura_repetição.ipynb](/Estrutura_repetição.ipynb)**
